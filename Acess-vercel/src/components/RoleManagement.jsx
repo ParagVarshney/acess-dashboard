@@ -1,7 +1,7 @@
 import React from "react";
 
 import colors from "../constants/colors";
-import RoleCard from "./RoleCard";
+import RoleCard from "./Rolecard";
 import Button from "./ui/Button";
 
 
@@ -64,4 +64,5 @@ export default function RoleManagement() {
     </div>
   );
 }
+
 
